@@ -229,3 +229,4 @@ if __name__ == "__main__":
     
     scanner = SaranVulnScanPro(args.url, args.threads, args.timeout)
     scanner.run()
+
